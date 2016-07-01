@@ -2,7 +2,7 @@
 
 ## what's new
  - support alert sound when error happened
- - support post error to influxdb
+ - support post error to `influxdb`
 
 
 View the [Dashboard Wiki](https://github.com/Netflix/Hystrix/wiki/Dashboard) for more information including installation instructions.
